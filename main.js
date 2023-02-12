@@ -1,5 +1,6 @@
 import Swiper from 'swiper/bundle';
 import 'swiper/swiper-bundle.css';
+import './style.css';
 
 const swiper = new Swiper(".swiper", {
   // modules: [Navigation, Pagination],
